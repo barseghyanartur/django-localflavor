@@ -5157,7 +5157,7 @@ msgstr ""
 #: generic/validators.py:142
 #, python-format
 msgid "%s is not a valid character for IBAN."
-msgstr ""
+msgstr "%s is geen geldig teken voor IBAN."
 
 #: generic/validators.py:164
 #, python-format
@@ -5167,7 +5167,7 @@ msgstr ""
 #: generic/validators.py:167
 #, python-format
 msgid "%s is not a valid country code for IBAN."
-msgstr ""
+msgstr "%s is geen geldige landcode voor dit IBAN."
 
 #: generic/validators.py:169
 #, python-format
@@ -5176,7 +5176,7 @@ msgstr ""
 
 #: generic/validators.py:172
 msgid "Not a valid IBAN."
-msgstr ""
+msgstr "IBAN is niet geldig."
 
 #: generic/validators.py:192
 msgid "BIC codes have either 8 or 11 characters."
